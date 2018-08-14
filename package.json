@@ -1,0 +1,22 @@
+{
+  "name": "duel-servers",
+  "version": "1.0.0",
+  "description": "two server example",
+  "main": "twoservers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnnyNeagoe/Duel-Servers.git"
+  },
+  "author": "Johnny Neagoe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnnyNeagoe/Duel-Servers/issues"
+  },
+  "homepage": "https://github.com/JohnnyNeagoe/Duel-Servers#readme",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
